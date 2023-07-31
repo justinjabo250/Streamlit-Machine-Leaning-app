@@ -76,5 +76,6 @@ Justin Jabo
 - [Linkedin Article](https://www.linkedin.com/pulse/streamlit-machine-leaning-app-jabo-justin) 
 - [Medium Article](https://medium.com/@jabojustin250/streamlit-machine-leaning-app-6d82fdebcf47)
 - [Github Repository](https://github.com/justinjabo250/Streamlit-Machine-Leaning-app)
+- [Gradio App](https://github.com/justinjabo250/Gradio-Machine-Leaning-App)
 ...
 
