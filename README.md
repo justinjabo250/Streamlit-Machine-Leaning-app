@@ -2,11 +2,17 @@
 
 ![streamlitapp](https://github.com/justinjabo250/Streamlit-Machine-Leaning-app/assets/115732734/4c6992c0-daa6-43f0-ab1b-1aa18ca11fe9)
 
+# 🚀 Friendly Web Interface for Machine Leaning Project with Streamlit App 🚀
 
 Creating and sharing stunning, personalized web apps for machine learning and data science is simple with the help of the open-source Python library Streamlit. In order to develop this app using Streamlit, you must first complete the following steps before beginning: import type_of_day, impute_holiday_data, payday, impute_oil_missing_values, and date_extracts from your function. import Streamlit as st, pandas as pd, numpy as np, import pickle as datetime.
 
 
 Therefore, you proceed to establish your page title, page icon, and markdown on your page using the Streamlit app. Then, load every pickle file you use in your Streamlit app, add components to your machine learning composition, and develop your function to load pickle files. Add the app's title, then make an expander to house it, a three-column layout, and a date input to accept a date using your expander. To better visualize your app, make a pick box for store city and then add your button.
+
+## Summary
+| Code      | Name        | Published Article |  Deployed App |
+|-----------|-------------|:-------------:|------:|
+|Streamlit App | Streamlit Machine Leaning app |  [Read more here](https://www.linkedin.com/pulse/streamlit-machine-leaning-app-jabo-justin)[Read more here](https://medium.com/@jabojustin250/streamlit-machine-leaning-app-6d82fdebcf47) | [Check on the App](http://127.0.0.1:7865) |
 
 
 ## How to Use Streamlit?
@@ -65,5 +71,10 @@ The New App option is located in the top right corner of the Streamlit website, 
 . Make sure your app’s dependencies and source code are on Github before deploying it, as Streamlit cloud launches apps directly from the Github repository.
 
 
-
+## Author
+Justin Jabo
+- [Linkedin Article](https://www.linkedin.com/pulse/streamlit-machine-leaning-app-jabo-justin) 
+- [Medium Article](https://medium.com/@jabojustin250/streamlit-machine-leaning-app-6d82fdebcf47)
+- [Github Repository](https://github.com/justinjabo250/Streamlit-Machine-Leaning-app)
+...
 
